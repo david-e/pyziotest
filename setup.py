@@ -44,13 +44,10 @@ setup(
         'Operating System :: Unix',
         'Operating System :: POSIX',
         'Programming Language :: Python',
-        'Programming Language :: Python :: 2.6',
         'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3',
-        'Programming Language :: Python :: 3.3',
         'Programming Language :: Python :: 3.4',
         'Programming Language :: Python :: Implementation :: CPython',
-        'Programming Language :: Python :: Implementation :: PyPy',
         'Topic :: Utilities',
     ],
     keywords=[
@@ -63,8 +60,8 @@ setup(
         # eg: 'rst': ['docutils>=0.11'],
     },
     entry_points={
-        'console_scripts': [
-            #'pyzio = zio.__main__:main',
-        ]
+        # 'console_scripts': [
+        #     'pyzio = zio.__main__:main',
+        # ]
     },
 )

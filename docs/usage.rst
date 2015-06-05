@@ -4,4 +4,5 @@ Usage
 
 To use PyZio in a project::
 
-	import pyzio
+	import zio
+

@@ -1,5 +1,0 @@
-pyzio
-=============================
-
-.. automodule:: pyzio
-    :members:
